@@ -32,5 +32,11 @@ performance loss inherent in purely interpreted languages.
 - Structure and syntax are pretty intuitive and easy to grasp.
 # Interpreted Language
 Python is processed at runtime by python Interpreter
+# Interactive Programming Language
+Users can interact with the python interpreter directly for writing the programs
+#  Straight forward syntax
+The formation of python syntax is simple and straight forward which also makes it
+popular.
+
 
 
