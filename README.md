@@ -31,6 +31,6 @@ byte code, which the interpreter then reads.
 performance loss inherent in purely interpreted languages.
 - Structure and syntax are pretty intuitive and easy to grasp.
 # Interpreted Language
-- Python is processed at runtime by python Interpreter
+Python is processed at runtime by python Interpreter
 
 
